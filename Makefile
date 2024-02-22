@@ -1,4 +1,4 @@
-TAG := v1.8.0
+TAG := master
 
 all: schema-update generate-json generate-code
 
